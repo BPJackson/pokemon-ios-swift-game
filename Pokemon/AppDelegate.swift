@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  Pokemon
-//
-//  Created by Aaron on 9/29/15.
-//  Copyright © 2015 Aaron. All rights reserved.
-//
+//Pokemon App
 
 import UIKit
 
@@ -43,4 +37,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
-
